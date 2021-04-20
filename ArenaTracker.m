@@ -17,8 +17,8 @@
 
 %---------------------------- 
 % Dirk Albrecht 
-% Version 1.1 
-% 11-Jun-2013 21:28:42 
+% Version 1.2 
+% 29-Jan-2021
 %---------------------------- 
 
 function File = ArenaTracker(moviefile,blankrect);
